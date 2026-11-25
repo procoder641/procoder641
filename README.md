@@ -51,3 +51,11 @@ A personal portfolio showcasing my skills, projects and academic achievements.
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=procoder641&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=procoder641&layout=compact&theme=tokyonight)
